@@ -48,7 +48,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>br.edu.unifei.ecot13.hp.App</mainClass>
+							<mainClass>br.edu.unifei.ecot13.worlds.AppInsert</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
