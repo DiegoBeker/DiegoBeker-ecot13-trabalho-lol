@@ -33,5 +33,5 @@ Modeling a simple Maven project of the league of legends worldchampionship for s
 
 <h3>Author</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Camila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/diego-beker/)
-[![Gmail Badge](https://img.shields.io/badge/-camiladsantoscavalcante@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camiladsantoscavalcante@gmail.com)](mailto:diegobecker99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-beker/)](https://www.linkedin.com/in/diego-beker/)
+[![Gmail Badge](https://img.shields.io/badge/-diegobecker99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegobecker99@gmail.com)](mailto:diegobecker99@gmail.com)
