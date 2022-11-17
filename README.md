@@ -17,7 +17,7 @@ Modeling a simple Maven project of the league of legends worldchampionship for s
 </tr>
 <tr>
 	<td>Maven</td>
-	<td>7.**</td>
+	<td>4.0.0</td>
 </tr>
 </table>
 
