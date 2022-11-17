@@ -51,6 +51,7 @@ Modeling a simple Maven project of the league of legends worldchampionship for s
 ![Lol-Worldchampionship-PERSISTENCE](https://user-images.githubusercontent.com/114487600/202059556-3cb7fb3f-27af-40c1-ab8c-5dceeffd3fde.png)
 
 <h3>Author</h3>
+Diego Beker
 
 [![Linkedin Badge](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-beker/)](https://www.linkedin.com/in/diego-beker/)
 [![Gmail Badge](https://img.shields.io/badge/-diegobecker99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegobecker99@gmail.com)](mailto:diegobecker99@gmail.com)
