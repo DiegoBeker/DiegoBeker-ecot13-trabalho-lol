@@ -2,6 +2,25 @@
 
 Modeling a simple Maven project of the league of legends worldchampionship for study purposes
 
+<table>
+<tr>
+	<th>Tool</th>
+	<th>Version</th>
+</tr>
+<tr>
+	<td>Java JDK</td>
+	<td>17</td>
+</tr>
+<tr>
+	<td>Git</td>
+	<td>2.**</td>
+</tr>
+<tr>
+	<td>Maven</td>
+	<td>7.**</td>
+</tr>
+</table>
+
 <h3>Dependencies</h3>
 
 <table>
