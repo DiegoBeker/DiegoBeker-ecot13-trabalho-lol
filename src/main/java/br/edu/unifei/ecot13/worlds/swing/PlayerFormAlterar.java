@@ -20,6 +20,7 @@ import javax.persistence.Persistence;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.awt.Toolkit;
 
 public class PlayerFormAlterar extends JFrame {
 	private JTextField textName;

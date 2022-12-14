@@ -52,6 +52,7 @@ public class PlayerFormDeletar extends JFrame {
 	 * Create the frame.
 	 */
 	public PlayerFormDeletar() {
+		setTitle("Deletar Player");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 451, 363);
 		contentPane = new JPanel();
